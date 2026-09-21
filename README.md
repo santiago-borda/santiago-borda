@@ -59,7 +59,6 @@ Impacto: Mejora en la eficiencia de consulta y navegación para el usuario final
 
 Tecnologías: JavaScript, Arquitectura de Datos, Gestión de APIs.
 
-Nro de contacto: +5493794071989  
 Email: santiaborda@gmail.com  
 
 **Linkedin**: ([https://www.linkedin.com/in/santiago-borda-573a51395/](https://www.linkedin.com/in/santiago-borda-573a51395/))  
