@@ -8,7 +8,7 @@ Este es mi espacio de proyectos técnicos: soluciones enfocadas en infraestructu
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Stack principal
 
 - **IDE/Herramientas:** Cursor, VS Code, Antigravity, Figma
 - **Lenguajes:** Python, JavaScript, SQL
@@ -18,7 +18,7 @@ Este es mi espacio de proyectos técnicos: soluciones enfocadas en infraestructu
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos destacados
 
 **1. Sistema Experto para Validación Clínica (Proyecto Final de Grado)**
 Investigación aplicada de inteligencia artificial a la validación de infecciones transmisibles por transfusión en bancos de sangre, combinando un motor de reglas expertas con modelos de lenguaje.
@@ -45,6 +45,7 @@ Diseño y despliegue de una plataforma web para visualización de productos y ge
 
 ## 📫 Contacto
 
+- **Sitio web personal:** [website](https://portfolio-santiago-phi.vercel.app/)  
 - **Email:** santiaborda@gmail.com
 - **LinkedIn:** [santiago-borda](https://www.linkedin.com/in/santiago-borda-573a51395/)
 - **CV:** [Ver CV](https://drive.google.com/file/d/1Izuggj7XjskCvgMVToQ2uRmyK29oB7Op/view?usp=sharing)
