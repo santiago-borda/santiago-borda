@@ -2,7 +2,7 @@
 
 ### Estudiante de último año de Ingeniería en Sistemas de la Información — 22 años, Corrientes, Argentina 🇦🇷
 
-Actualmente trabajo como **Trainee de Mejora Continua** en **KIU System Solutions** (multinacional de soluciones tecnológicas para la industria aeronáutica), en el área de Performance & Delivery, combinando gestión de proyectos, auditoría de procesos (PyP) y documentación de testing para QA.
+Actualmente trabajo como **Trainee de Mejora Continua** en **KIU System Solutions** (multinacional de soluciones tecnológicas para la industria aerocomercial), en el área de Performance & Delivery, combinando gestión de proyectos, auditoría de procesos (PyP) y documentación exhaustiva.
 
 Este es mi espacio de proyectos técnicos: soluciones enfocadas en infraestructura, ciberseguridad, QA y desarrollo de software.
 
