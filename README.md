@@ -1,65 +1,50 @@
 # ¡Hola! Soy Santiago Borda 👋
-### Soy estudiante de último año de Ingeniería en Sistemas de la Información, tengo 22 años y soy de Corrientes, Argentina.
 
-Bienvenido a mi espacio de proyectos técnicos. Aquí encontrarás soluciones enfocadas en infraestructura, ciberseguridad y desarrollo de software.
+### Estudiante de último año de Ingeniería en Sistemas de la Información — 22 años, Corrientes, Argentina 🇦🇷
+
+Actualmente trabajo como **Trainee de Mejora Continua** en **KIU System Solutions** (multinacional de soluciones tecnológicas para la industria aeronáutica), en el área de Performance & Delivery, combinando gestión de proyectos, auditoría de procesos (PyP) y documentación de testing para QA.
+
+Este es mi espacio de proyectos técnicos: soluciones enfocadas en infraestructura, ciberseguridad, QA y desarrollo de software.
+
+---
 
 ## 🛠️ Stack Principal
 
-- **IDE/Herramientas**: Cursor, VS Code, Antigravity, Figma.
-- **Lenguajes**: Python, Javascript.
-- **Infraestructura y QA**: Docker, Playwright (Testing), entornos virtuales.
-- **Análisis**: Modelado estadístico, hojas de cálculo avanzadas (Excel/Sheets).
+- **IDE/Herramientas:** Cursor, VS Code, Antigravity, Figma
+- **Lenguajes:** Python, JavaScript, SQL
+- **Infraestructura y QA:** Docker, Playwright (Testing), entornos virtuales
+- **Gestión:** Jira
+- **Análisis:** Modelado estadístico, hojas de cálculo avanzadas (Excel/Sheets)
+
+---
 
 ## 📂 Proyectos Destacados
 
-**1. Auditoría de Seguridad e Infraestructura**  
-Descripción: Ejecución de un análisis técnico y auditoría de redes para una institución de alta complejidad.
+**1. Sistema Experto para Validación Clínica (Proyecto Final de Grado)**
+Investigación aplicada de inteligencia artificial a la validación de infecciones transmisibles por transfusión en bancos de sangre, combinando un motor de reglas expertas con modelos de lenguaje.
+`Python` `IA aplicada` `Sistemas expertos`
 
+**2. Auditoría de Seguridad e Infraestructura**
+Análisis técnico y auditoría de redes para una institución de alta complejidad. Evaluación de la robustez en protocolos de comunicación y cifrado (SSL/TLS y RSA), identificando vectores de riesgo en infraestructura crítica para garantizar la integridad de datos sensibles.
+`Kali Linux` `Análisis de vulnerabilidades` `Protocolos criptográficos`
 
-Alcance: Evaluación de la robustez en protocolos de comunicación y cifrado, específicamente SSL/TLS y RSA.
+**3. Aseguramiento de Calidad y Testing Automatizado (QA)**
+Implementación de pruebas end-to-end (E2E) para validar la lógica de negocio y la experiencia de usuario en prototipos funcionales. Automatización de flujos críticos de navegación para asegurar la estabilidad del software ante cambios y regresiones, reduciendo los ciclos de validación manual.
+`Playwright` `JavaScript` `Testing de Integración`
 
+**4. FonoApp — Desarrollo Interdisciplinario de Software**
+Co-desarrollo de una solución gamificada para asistir en procesos terapéuticos de fonoaudiología en niños de 3 a 8 años. Traducción de requerimientos clínicos complejos a funcionalidades digitales interactivas, con un sistema de seguimiento de progreso para que los profesionales de la salud monitoreen la evolución del paciente.
+`Figma (UI/UX)` `Lógica de programación` `Metodologías ágiles`
 
-Impacto: Identificación de vectores de riesgo en infraestructura crítica para garantizar la integridad de datos sensibles.
+**5. Catálogo Web Dinámico y Gestión de Datos**
+Diseño y despliegue de una plataforma web para visualización de productos y gestión de inventario, con arquitectura de datos escalable que permite actualización de stock en tiempo real.
+`JavaScript` `Arquitectura de datos` `Gestión de APIs`
+🔗 [Ver proyecto](https://catalogo-tech-ctes.vercel.app/)
 
-Tecnologías: Kali Linux, Análisis de vulnerabilidades, Protocolos Criptográficos.
+---
 
-**2. Aseguramiento de Calidad y Testing Automatizado (QA)**
+## 📫 Contacto
 
-Descripción: Implementación de pruebas de extremo a extremo (E2E) para validar la lógica de negocio y la experiencia de usuario en prototipos funcionales.
-
-
-Alcance: Automatización de flujos críticos de navegación para asegurar la estabilidad del software ante cambios y regresiones.
-
-
-Impacto: Reducción significativa de los ciclos de validación manual mediante el uso de scripts de prueba eficientes.
-
-Tecnologías: Playwright, JavaScript, Testing de Integración.
-
-**3. FonoApp: Desarrollo Interdisciplinario de Software**
-
-Descripción: Co-desarrollo de una solución tecnológica gamificada diseñada para asistir en procesos terapéuticos de fonoaudiología para niños de 3 a 8 años.
-
-
-Alcance: Traducción de requerimientos clínicos complejos a funcionalidades digitales interactivas.
-
-
-Impacto: Creación de un sistema de seguimiento de progreso que permite a los profesionales de la salud monitorear la evolución del paciente de forma digital.
-
-Tecnologías: Diseño UI/UX (Figma), Lógica de programación, Metodologías Ágiles.
-
-**4. Catálogo Web Dinámico y Gestión de Datos**
-
-Descripción: Diseño y despliegue de una plataforma web optimizada para la visualización de productos y gestión de inventario.
-
-
-Alcance: Implementación de una arquitectura de datos escalable que permite la actualización de stock en tiempo real.
-
-
-Impacto: Mejora en la eficiencia de consulta y navegación para el usuario final mediante una estructura de datos robusta.
-
-Tecnologías: JavaScript, Arquitectura de Datos, Gestión de APIs.
-
-Email: santiaborda@gmail.com  
-
-**Linkedin**: ([https://www.linkedin.com/in/santiago-borda-573a51395/](https://www.linkedin.com/in/santiago-borda-573a51395/))  
-**CV**: (https://drive.google.com/file/d/1Izuggj7XjskCvgMVToQ2uRmyK29oB7Op/view?usp=sharing)  
+- **Email:** santiaborda@gmail.com
+- **LinkedIn:** [santiago-borda](https://www.linkedin.com/in/santiago-borda-573a51395/)
+- **CV:** [Ver CV](https://drive.google.com/file/d/1Izuggj7XjskCvgMVToQ2uRmyK29oB7Op/view?usp=sharing)
